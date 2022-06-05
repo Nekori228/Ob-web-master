@@ -505,6 +505,12 @@ li {
     margin-left: 5%;
 }
 
+.form_1 {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
 .form_2 {
     display: flex;
     flex-direction: column;

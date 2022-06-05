@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1380px) {
+    .mnu_top_mini {
+        display: flex;
+        padding-left: 15%;
+    }
+
+    .text_about {
+        font-size: 25px;
+        font-weight: 600;
+        color: black;
+        float: left;
+        margin-left: 4%;
+        margin-top: 6%;
+    }
+
+    .text_about-mini {
+        font-size: 15px;
+        color: black;
+        float: left;
+        margin-left: -57%;
+        margin-top: 16%;
+    }
+
+    .about_photo {
+        max-width: 35%;
+        float: left;
+        margin-left: 62%;
+        margin-top: -17%;
+        border-radius: 15px;
+    }
+
+    .form_2 {
+        display: flex;
+        flex-direction: column;
+        width: 35%;
+    }
+}
